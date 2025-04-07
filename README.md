@@ -5,7 +5,8 @@
 ### 2025 年 4 月 2 日
 - 遞迴——合成函數。
 - [recursion_1.py](recursion_1.py)
-  
-
+### 2025 年 4 月 7 日
+- 遞迴——切木段。
+- [recursion_2.py](recursion_2.py)
 
 
