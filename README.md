@@ -11,3 +11,6 @@
 ### 2025 年 4 月 7 日
 - 遞迴——解壓縮。
 - [recursion_3.py](recursion_3.py)
+### 2025 年 4 月 9 日
+- 遞迴——解壓縮。
+- [bisect_1.py](bisect_1.py)
