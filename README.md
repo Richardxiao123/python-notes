@@ -14,3 +14,7 @@
 ### 4.
 - 二分搜——圓環鑰匙。
 - [bisect_1.py](bisect_1.py)
+### 5.
+- 二分搜——互補團隊。
+- [bisect_2.py](bisect_2.py)
+  
